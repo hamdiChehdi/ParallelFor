@@ -8,4 +8,5 @@ Count the frequency of letters in texts using parallel computation.
 
 
 To solve this problem i used Parallel.ForEach loop with partition-local variables
+
 https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/how-to-write-a-parallel-foreach-loop-with-partition-local-variables
