@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/parallel-letter-frequency/bin/Debug/netcoreapp3.0
+/parallel-letter-frequency/.vs/ParallelLetterFrequency/v16
+/parallel-letter-frequency/.vs/ParallelLetterFrequency/DesignTimeBuild
+/parallel-letter-frequency/obj/Debug/netcoreapp3.0
+/parallel-letter-frequency/obj
+/parallel-letter-frequency/README.md
+/parallel-letter-frequency/.exercism/metadata.json
