@@ -1,7 +1,7 @@
 # ParallelFor
 this is my solution for Parallel Letter Frequency Problem, 
 You can find the full description of the problem in this link 
-https://exercism.io/my/solutions/12020b7816e04e73b95de13d9814c35d 
+https://exercism.io/my/solutions/12020b7816e04e73b95de13d9814c35d,
 the unit test file taking from exercism.io,
 the problem description: 
 Count the frequency of letters in texts using parallel computation.
